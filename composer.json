@@ -2,7 +2,7 @@
     "name": "am0nshi/omnipay-interkassa",
     "type": "library",
     "description": "InterKassa driver for the Omnipay PHP payment processing library",
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "keywords": [
         "php",
         "omnipay",
